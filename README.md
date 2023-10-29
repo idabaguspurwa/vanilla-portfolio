@@ -1,3 +1,2 @@
-# vanilla-portfolio
-
-This is a portfolio website using vanilla HTML, CSS and Javascript
+# idabaguspurwa.github.io
+My Portfolio Website
