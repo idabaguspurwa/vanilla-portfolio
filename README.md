@@ -1,4 +1,4 @@
-# idabaguspurwa.github.io
+# Vanilla Portfolio Website
 
 This is a portfolio website i make using Vanilla HTML, CSS, and Javascript
 
